@@ -1,7 +1,7 @@
 httplib2==0.9
 requests==2.5.1
 tornado==6.3.2
-urllib3==1.7.1
+urllib3==1.26.5
 
 # test runner
 coverage==3.7.1
